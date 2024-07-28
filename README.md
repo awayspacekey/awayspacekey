@@ -31,5 +31,3 @@ Name/Nombre: Gonzalo
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
